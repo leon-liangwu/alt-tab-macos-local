@@ -23,9 +23,9 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>#VERSION#</string>
+	<string>10.12.0</string>
 	<key>CFBundleVersion</key>
-	<string>#VERSION#</string>
+	<string>10.12.0</string>
 	<key>FeedbackToken</key>
 	<string>#FEEDBACK_TOKEN#</string>
 	<key>LSApplicationCategoryType</key>
@@ -43,7 +43,7 @@
 	<key>NSSupportsSuddenTermination</key>
 	<string>false</string>
 	<key>SUEnableAutomaticChecks</key>
-	<string>true</string>
+	<false/>
 	<key>SUEnableJavaScript</key>
 	<string>true</string>
 	<key>SUFeedURL</key>
